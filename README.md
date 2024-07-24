@@ -1,4 +1,4 @@
-# Hello, I am Esteban Miranda
+# Welcome. My name is Esteban Miranda, and I will share my projects here. 
 <a href="https://linkedin.com/in/estebanmiranda10"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
