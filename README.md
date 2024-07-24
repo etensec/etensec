@@ -15,7 +15,7 @@ Growing up surrounded by computers has led me to become a professional in cybers
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Kali Linux/Capture the Flag/Penetration Test Report Final          | <a href="https://github.com/etensec/Projects/blob/main/ETEN10SecFINALCTFREPORT.pdf">Penetration Test Report</a>|
-| Review and Analysis of the impact of European Union General Data Protection Regulation | <a href="https://github.com/etensec/Projects/blob/main/EU-GDPR-EM-Resume.pdf">GDPR Review and Analysis</a>|
+| Review and Analysis of the Impact of European Union General Data Protection Regulation | <a href="https://github.com/etensec/Projects/blob/main/EU-GDPR-EM-Resume.pdf">GDPR Review and Analysis</a>|
 | Compliance Review for a Publicly Traded Health Insurance Company         | <a href="https://github.com/etensec/Projects/blob/main/GSPA-MINICASE-COMPLIANCE-EM-RESUME.pdf">Compliance Review</a>|
 | Group Project Design of a Network infrastructure for a Small Startup      | <a href="https://github.com/etensec/Projects/blob/main/VRQ%20Report%20Project%20Resume%20.pdf">VRQ Gaming Report</a>|
 | Firewall Change Management Policy                 | <a href="https://github.com/etensec/Projects/blob/main/CEDAR%20Firewall%20Change%20Management%20Policy%20FINAL.pdf">Firewall Change Management Policy</a>|
