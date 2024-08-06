@@ -2,12 +2,12 @@
 <a href="https://linkedin.com/in/estebanmiranda10"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent Cybersecurity graduate from DePaul University with a minor in Computer Science. Passionate about Computers and Cybersecurity. Technology is my hobby and passion. I am always eager to learn and advance my technical skills. I am open to any opportunities to begin my career in IT.    	
+I am a recent Cybersecurity graduate from DePaul University with a minor in Computer Science. Passionate about Computers and Cybersecurity. Technology is my hobby and passion. I am always eager to learn and advance my technical skills. I am open to any opportunities to begin my career in Cybersecurity.    	
 
 ## Objective
 
 
-Growing up surrounded by computers has led me to become a professional in cybersecurity. I plan to become a network engineer or a cybersecurity analyst.  
+Growing up surrounded by computers has led me to become a professional in cybersecurity. I currently aim to become a Cybersecurity analyst and ultimately become an ethical hacker.  
 
 ## Skills
 
