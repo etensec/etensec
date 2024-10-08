@@ -7,7 +7,7 @@ I am a recent Cybersecurity graduate from DePaul University with a minor in Comp
 ## Objective
 
 
-Growing up surrounded by computers has led me to become a professional in Cybersecurity. I currently aim to become a Cybersecurity Analyst and ultimately become an ethical hacker.  
+Growing up surrounded by computers has led me to become a professional in Cybersecurity. I currently aim to become a Network Engineer and ultimately become an ethical hacker.  
 
 ## Skills
 
